@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Engineering Student at AAiT. Working on <b>Full-Stack software</b> and <b>Mobile App development</b>. I like building and bringing things to life.
+I'm a Software Engineering Student at AAiT. Working on <b>Full-Stack Software</b> and <b>Mobile App development</b>. I like building and bringing things to life.
 
 <div align="center"> 
 
