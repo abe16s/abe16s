@@ -131,9 +131,9 @@ I'm a Software Engineering Student at AAiT. Working on <b>Full-Stack Software</b
     <tr>
       <td><a href="https://www.linkedin.com/in/abenezer-seifu/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abenezer-seifu-linkedin" height="35" width="35" style="max-width: 100%;"></a></td>
       <td><a href="https://x.com/AbenezerSeifu5" rel="nofollow"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="abenezer-seifu-x" height="35" width="35" style="max-width: 100%;"></a></td>
+      <td><a href="mailto:abenezerseifu123@gmail.com" rel="nofollow"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="abenezer-seifu-email" height="35" width="35" style="max-width: 100%;"></a></td>
       <td><a href="https://leetcode.com/abe16s/" rel="nofollow"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf_K0JksHMfoEYt25afbLN1k82_TU8CfzkEqn4k1pe1VatFhcl1UUEwwOOvU0u509SN1c&usqp=CAU" alt="abenezer-seifu-leetcode" height="35" width="35" style="max-width: 100%;"></a></td>
       <td><a href="https://codeforces.com/profile/abe16s" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abenezer-seifu-codeforces" height="35" width="35" style="max-width: 100%;"></a></td>
-      <td><a href="mailto:abenezerseifu123@gmail.com" rel="nofollow"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="abenezer-seifu-email" height="35" width="35" style="max-width: 100%;"></a></td>
     </tr>
   </tbody>
   
