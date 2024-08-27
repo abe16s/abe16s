@@ -58,7 +58,7 @@ I'm a Software Engineering Student at AAiT. Working on <b>Full-Stack Software</b
   <tbody>
     <tr>
     <td>
-      <a href="https://flutter.dev" rel="nofollow"> <img src="https://camo.githubusercontent.com/a682e207ce9939518c8617c6340b1bf8b1769b30a9f1b45d27d67fd64af1d0f2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" alt="flutter" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="max-width: 100%;"> </a> 
+      <a href="https://flutter.dev" rel="nofollow"> <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="max-width: 100%;"> </a> 
     </td>
     <td>
       <a href="https://tailwindcss.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9b51720b2cf7a6b7f6228fe20098165d83412f3ac2a3b6a6a14beafbd21957f5/68747470733a2f2f7461696c77696e646373732e636f6d2f5f6e6578742f7374617469632f6d656469612f7461696c77696e646373732d6d61726b2e336335343431666337613139306662313830306434613563376630376261346231333435613963382e737667" alt="tailwindcss" width="40" height="40" data-canonical-src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" style="max-width: 100%;"> </a>
@@ -90,8 +90,8 @@ I'm a Software Engineering Student at AAiT. Working on <b>Full-Stack Software</b
 <table>
   <tbody>
     <tr>
-    <td><a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a></td>
-    <td><a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a></td>
+    <td><a href="https://git-scm.com/" rel="nofollow"> <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a></td>
+    <td><a href="https://postman.com" rel="nofollow"> <img src="https://blog.postman.com/wp-content/uploads/2018/04/logo-mark-300x300.png" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a></td>
     <td>
       <a href="https://www.docker.com/" rel="nofollow">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;">
