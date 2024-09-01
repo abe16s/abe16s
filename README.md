@@ -27,7 +27,7 @@ I'm a Software Engineering Student at AAiT. Working on <b>Full-Stack Software</b
 
 * Data Structures and Algorithms
 * Go
-* React
+* React & Next.js
 
 
 <div align="center"> 
@@ -68,6 +68,9 @@ I'm a Software Engineering Student at AAiT. Working on <b>Full-Stack Software</b
     </td>
     <td>
       <a target="_blank" href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
+    </td>
+      <td>
+      <a target="_blank" href="https://nextjs.org/" rel="nofollow"> <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="nextjs" width="40" height="40" style="max-width: 100%;"> </a>
     </td>
     </tr>
   </tbody>
